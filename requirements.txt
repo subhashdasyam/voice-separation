@@ -1,0 +1,26 @@
+# Core packages
+numpy
+scipy
+matplotlib
+tqdm
+
+# Audio processing
+librosa
+soundfile
+pydub
+webrtcvad
+
+# Machine learning
+scikit-learn
+torch
+torchaudio
+
+# Speaker diarization (optional but recommended)
+pyannote.audio
+
+# Speaker embeddings (optional but recommended)
+resemblyzer
+transformers
+
+# Spectral clustering (optional)
+spectralcluster
